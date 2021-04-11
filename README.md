@@ -1,6 +1,6 @@
 # xrdp
 
-## GUI Apps on Ubuntu (WSL)  
+## GUI Apps on Ubuntu (WSL)  with XRDP
 
 ## Install XRDP  
 `sudo apt update && sudo apt -y upgrade`  
