@@ -5,9 +5,9 @@
 ## Install XRDP  
 `sudo apt update && sudo apt -y upgrade`  
 `sudo apt -y install xfce4`  
+  → Default display Manager は `gdm3` を選択
 `sudo apt -y install xrdp`  
 
-→ Default display Manager は `gdm3` を選択
 
 ## デフォルトポート番号などを変更  
 `sudo cp /etc/xrdp/xrdp.ini /etc/xrdp/xrdp.ini.bak`  
